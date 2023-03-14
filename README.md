@@ -24,7 +24,6 @@
 
 ```js
 const Brunob43 = {
-  pronouns: 'he' || 'her',
   code: {
     languages: [ "JavaScript" ],
     database: [ "PostgreSQL" ],
