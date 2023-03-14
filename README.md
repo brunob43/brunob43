@@ -1,9 +1,11 @@
-<div id= "header" align="center">
-    <img src= "https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" width="200"/>
+<div align="center">
+            
+  ![Bruno (1)](https://i.pinimg.com/originals/25/f4/ea/25f4ea8a563d0393de4abb6e24f9b63b.gif)
+     </div>   
+   <div>
     <h1 align="center"> <¡Hey 👋! I'm Bruno!>
     <h3 align="center"> A passionate web fullstack developer </h3>
-
-</div>
+        </div>
 
 <h2>Sobre mi</h2>
 <p>
