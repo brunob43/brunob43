@@ -15,7 +15,7 @@
   </p>
   <h4>Hobbies</h4>
   <p>
-    -Runnig  🏃‍ <br/>
+    -Running  🏃‍ <br/>
     -Tocar la Guitarra 🎸
   </p>
 </p>
