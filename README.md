@@ -11,6 +11,8 @@
 <p>
 I am passionate about learning, especially what involves logic challenges and teamwork. For this reason, I decided to join the Web Development world and my background is as a Full Stack Dev with experience doing Full-Stack projects developed in the PERN stack with React.JS, Redux, PostgreSQL, Node.JS, HTML, CSS, Material UI, Express, JavaScript and Sequelize. In addition, I have experience working with agile methodologies, SCRUM and JIRA. Currently, i continue to educate myself with new technologies in both areas in order to further develop my skills and increase my knowledge.  
                 
+                                 -------------------   \__( º_º )__/   ----------------------
+               
 Soy un apasionado por el aprendizaje, sobre todo lo que implica desafíos de lógica y el trabajo en equipo. Por eso mismo, decidí integrarme al mundo del Desarrollo Web y mi formación es como Full Stack Dev con experiencia realizando proyectos Full-Stack desarrollados en el stack PERN con React.JS, Redux, PostgreSQL, Node.JS, HTML, CSS, Material UI, Express, JavaScript y Sequelize.
 Ademas, tengo experiencia en trabajo con metodologías ágiles, SCRUM y JIRA. 
 Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
