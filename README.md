@@ -9,8 +9,10 @@
 
 <h2>Sobre mi</h2>
 <p>
-  Soy un apasionado por el aprendizaje, sobre todo lo que implica desafíos de lógica y el trabajo en equipo. Por eso mismo, decidí integrarme en el mundo del Desarrollo y aunque mi formación es como Full Stack, tengo una preferencia hacia el área de Back-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
   
+Soy un apasionado por el aprendizaje, sobre todo lo que implica desafíos de lógica y el trabajo en equipo. Por eso mismo, decidí integrarme al mundo del Desarrollo Web y mi formación es como Full Stack Dev con experiencia realizando proyectos Full-Stack desarrollados en el stack PERN con React.JS, Redux, PostgreSQL, Node.JS, HTML, CSS, Material UI, Express, JavaScript y Sequelize.
+Ademas, tengo experiencia en trabajo con metodologías ágiles, SCRUM y JIRA. 
+Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
         
   <br/>
   <h4>Me gusta</h4>
