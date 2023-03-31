@@ -20,14 +20,14 @@ Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas pa
   <br/>
   <h4>Me gusta</h4>
   <p>
-    -La playa 🏝🏖 <br/>
+    -Beach 🏝🏖 <br/>
     -El mate 🧉 <br/>
-    -Viajar ✈
+    -Travel ✈
   </p>
   <h4>Hobbies</h4>
   <p>
     -Running  🏃‍ <br/>
-    -Tocar la Guitarra 🎸 🎶
+    -Play Guitar 🎸 🎶
   </p>
 </p>
 <br/>
